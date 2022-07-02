@@ -8,5 +8,5 @@ def reverse_string1(l):
 #срез 2
 
 for text in reversed('world'):
-    print(text)
+    print(text, end='')
 #reverse
